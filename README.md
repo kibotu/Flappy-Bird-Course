@@ -21,7 +21,7 @@ https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/ (key
 
 Free Assets
 * https://opengameart.org/ (graphics, sound)
-* https://www.gameart2d.com/ (graphics)* 
+* https://www.gameart2d.com/ (graphics)
 * http://kibotu.net/webgl/hackerschool/assets-day-2.zip
 
 Free Tutorials
